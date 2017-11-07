@@ -1,0 +1,17 @@
+add2	P1,M2,M3,P5
+add4	P1,M3,M4,P5
+add9	P1,M3,P5,M9
+add11	P1,M3,P5,M11
+add13	P1,M3,P5,M13
+sus2	P1,M2,P5
+sus2add2	P1,M2,P5
+sus2add4	P1,M2,M4,P5
+sus2add9	P1,M2,P5,M9
+sus2add11	P1,M2,P5,M11
+sus2add13	P1,M2,P5,M13
+sus4	P1,P4,P5
+sus4add2	P1,M2,P4,P5
+sus4add4	P1,P4,M4,P5
+sus4add9	P1,P4,P5,M9
+sus4add11	P1,P4,P5,M11
+sus4add13	P1,P4,P5,M13

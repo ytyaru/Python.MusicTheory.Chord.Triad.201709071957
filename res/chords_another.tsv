@@ -1,0 +1,15 @@
+add2	P1,M2,M3,P5
+add4	P1,M3,M4,P5
+add9	P1,M3,P5,M9
+add11	P1,M3,P5,M11
+add13	P1,M3,P5,M13
+sus2	P1,M2,P5
+sus4	P1,P4,P5
+dim	P1,m3,d5
+dim6	P1,m3,d5,M6
+dim7	P1,m3,d5,d7
+dimM7	P1,m3,d5,M7
+aug	P1,M3,a5
+aug6	P1,M3,a5,M6
+aug7	P1,M3,a5,m7
+augM7	P1,M3,a5,M7

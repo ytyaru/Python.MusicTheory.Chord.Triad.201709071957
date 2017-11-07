@@ -1,0 +1,9 @@
+6	P1,M3,P5,M6
+m6	P1,m3,P5,M6
+7	P1,M3,P5,m7
+m7	P1,m3,P5,m7
+M7	P1,M3,P5,M7
+dim7	P1,m3,d5,d7
+m7-5	P1,m3,d5,m7
+M7+5	P1,M3,a5,M7
+mM7	P1,m3,P5,M7

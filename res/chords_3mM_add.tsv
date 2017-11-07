@@ -1,0 +1,6 @@
+m	P1,m3,P5
+madd2	P1,M2,m3,P5
+madd4	P1,m3,M4,P5
+madd9	P1,m3,P5,M9
+madd11	P1,m3,P5,M11
+madd13	P1,m3,P5,M13
